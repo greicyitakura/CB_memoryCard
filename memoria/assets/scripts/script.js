@@ -1,6 +1,6 @@
-const FRONT = "card_front";
-const BACK = "card_back";
-const CARD = "card";
+const FRONT = "game_card_front";
+const BACK = "game_game_card_back";
+const CARD = "game_card";
 const ICON = "icon";
 
 startGame();
